@@ -132,10 +132,10 @@ const config = {
 // module.exports = config;
 module.exports = {
     ...config,
-    url: "https://endiliey.github.io", // Your website URL
+    url: "https://IvaniGabrovsky.github.io", // Your website URL
     baseUrl: "/",
-    projectName: "endiliey.github.io",
-    organizationName: "endiliey",
+    projectName: "IvaniGabrovsky.github.io",
+    organizationName: "IvaniGabrovsky",
     trailingSlash: false,
     deploymentBranch: "master",
 };
