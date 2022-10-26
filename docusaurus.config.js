@@ -9,7 +9,8 @@ const config = {
     title: "text ssg tool docs",
     tagline: "Dinosaurs are cool",
     url: "https://your-docusaurus-test-site.com",
-    baseUrl: "/",
+    baseUrl: "/text-ssg-tool-docs/",
+    trailingSlash: false,
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
@@ -129,13 +130,4 @@ const config = {
         }),
 };
 
-// module.exports = config;
-module.exports = {
-    ...config,
-    url: "https://github.com/", // Your website URL
-    baseUrl: "IvaniGabrovsky/",
-    projectName: "text-ssg-tool-docs",
-    organizationName: "IvaniGabrovsky",
-    trailingSlash: false,
-    deploymentBranch: "master",
-};
+module.exports = config;
