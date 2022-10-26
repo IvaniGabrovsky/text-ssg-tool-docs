@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktext_ssg_tool_docs=self.webpackChunktext_ssg_tool_docs||[]).push([[2201],{5731:o=>{o.exports=JSON.parse('{"permalink":"/text-ssg-tool-docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktext_ssg_tool_docs=self.webpackChunktext_ssg_tool_docs||[]).push([[3151],{7136:s=>{s.exports=JSON.parse('{"permalink":"/text-ssg-tool-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

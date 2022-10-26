@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktext_ssg_tool_docs=self.webpackChunktext_ssg_tool_docs||[]).push([[8721],{2036:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/text-ssg-tool-docs/blog/tags/facebook","allTagsPath":"/text-ssg-tool-docs/blog/tags","count":1}')}}]);
