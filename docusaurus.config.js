@@ -132,8 +132,8 @@ const config = {
 // module.exports = config;
 module.exports = {
     ...config,
-    url: "https://github.com/IvaniGabrovsky/text-ssg-tool-docs", // Your website URL
-    baseUrl: "/",
+    url: "https://github.com/", // Your website URL
+    baseUrl: "IvaniGabrovsky",
     projectName: "text-ssg-tool-docs",
     organizationName: "IvaniGabrovsky",
     trailingSlash: false,
