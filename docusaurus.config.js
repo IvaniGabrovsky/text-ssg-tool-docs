@@ -137,5 +137,5 @@ module.exports = {
     projectName: "text-ssg-tool-docs",
     organizationName: "IvaniGabrovsky.github.io",
     trailingSlash: false,
-    deploymentBranch: "IvaniGabrovsky",
+    deploymentBranch: "source",
 };
