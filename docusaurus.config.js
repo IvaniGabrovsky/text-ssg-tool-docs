@@ -134,7 +134,7 @@ module.exports = {
     ...config,
     url: "https://github.com/IvaniGabrovsky/text-ssg-tool-docs", // Your website URL
     baseUrl: "/",
-    projectName: "IvaniGabrovsky.github.io",
+    projectName: "text-ssg-tool-docs",
     organizationName: "IvaniGabrovsky",
     trailingSlash: false,
     deploymentBranch: "master",
