@@ -133,7 +133,7 @@ const config = {
 module.exports = {
     ...config,
     url: "https://github.com/", // Your website URL
-    baseUrl: "IvaniGabrovsky",
+    baseUrl: "IvaniGabrovsky/",
     projectName: "text-ssg-tool-docs",
     organizationName: "IvaniGabrovsky",
     trailingSlash: false,
